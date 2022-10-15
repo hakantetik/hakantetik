@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hakantetik
+- 🧠 I am a brain and spine surgeon
 - 👀 I’m interested in Machine learning and Data science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me hakantetik[a]gmail.com
